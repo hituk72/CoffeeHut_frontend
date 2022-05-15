@@ -1,4 +1,6 @@
-## New discount Plans
+## discount Plans
+
+
  * daily customers - 10% off on all purchases 
   
 
@@ -15,3 +17,5 @@
 
 
 * CoffeeHut wallet - 10 points on every dollar customer spends +  10% off on all eligible purchases
+
+
